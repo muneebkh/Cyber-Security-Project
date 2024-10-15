@@ -1,0 +1,4 @@
+This project focuses on conducting a comprehensive security assessment of web applications to identify and exploit vulnerabilities.Selected and document the target websites for the security assessment, ensuring they represent a
+diverse range of web applications, such as e-commerce sites, content management systems, or social media platforms.
+Conducted automated vulnerability scans using tools like OWASP ZAP to identify common security vulnerabilities such as SQL injection, cross-site scripting (XSS), and directory traversal. Manually analyze the identified vulnerabilities to verify their existence and determine their exploitability. This may involve techniques such as manual SQL injection, XSS payload crafting,
+or parameter manipulation.Documented the findings of the security assessment, including detailed descriptions of identified vulnerabilities, proof-of-concept exploit code, and potential impact assessments.
